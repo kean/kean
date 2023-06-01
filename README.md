@@ -1,4 +1,4 @@
-Hi, I'm Alex (short for Alexander). I'm a software engineer with over a decade of experience.
+Hi, I'm Alex (short for Alexander).
 
 - Blog: [kean.blog](https://kean.blog)
 - Built <a href="https://kean.github.io/nuke">Nuke</a>, <a href="https://github.com/kean/Pulse">Pulse</a>, and other popular frameworks and tools
