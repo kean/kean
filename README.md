@@ -8,3 +8,5 @@ Hi, I'm Alex (short for Alexander).
 
 - Twitter: [@a_grebenyuk](https://twitter.com/a_grebenyuk)
 - Mastodon: [@a_grebenyuk@mastodon.social](https://mastodon.social/@a_grebenyuk)
+
+![giphy](https://github.com/kean/kean/assets/1567433/ab276cc7-3e08-409e-9296-fae23ed6ba9f)
