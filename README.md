@@ -6,5 +6,4 @@ Hi, I'm Alex (short for Alexander).
 
 **Contacts**
 
-- Twitter: [@a_grebenyuk](https://twitter.com/a_grebenyuk)
 - Mastodon: [@a_grebenyuk@mastodon.social](https://mastodon.social/@a_grebenyuk)
