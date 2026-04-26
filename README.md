@@ -1,8 +1,8 @@
-Hi, I'm Alex (short for Alexander).
+Hi, I'm Alex (short for Alexander). I work on [Pocket Casts](https://pocketcasts.com).
 
 - Blog: [kean.blog](https://kean.blog)
 - Built <a href="https://kean.github.io/nuke">Nuke</a>, <a href="https://github.com/kean/Pulse">Pulse</a>, and other popular frameworks and tools
-- Developed the initial [CreateAPI](https://github.com/CreateAPI/CreateAPI) version which is now maintained by @cookpad
+- Developed [CreateAPI](https://github.com/CreateAPI/CreateAPI)
 
 **Contacts**
 
